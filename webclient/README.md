@@ -1,5 +1,2 @@
 # Starting server
-```
-gulp
-```
-
+When inside the webclient folder just type `gulp`
