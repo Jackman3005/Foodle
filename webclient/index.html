@@ -6,14 +6,12 @@
     <script src="bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
 </head>
 
-<body>
+<body ng-app="foodle">
+
+<ui-view></ui-view>
 
 <script src="app/app.js"></script>
 <script src="app/components/home/homeController.js"></script>
-
-<div ng-app="foodle">
-    <ui-view></ui-view>
-</div>
 
 </body>
 
