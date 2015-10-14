@@ -1,4 +1,9 @@
-/*.iml
+*.iml
 .idea/
 node_modules/*
 bower_components/*
+typings/*
+app/**/*.js
+app/**/*.map
+tests/**/*.js
+tests/**/*.map
