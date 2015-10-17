@@ -22,7 +22,12 @@ Download all TypeScript definition files
 
 `tsd install`
 
+### Download Gulp globally
+
+`npm install -g gulp`
+
 # Starting server
+
 Start with auto-reload
 
 `gulp`
